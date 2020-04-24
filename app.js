@@ -1,1 +1,1 @@
-console("haha")
+console("basic")
